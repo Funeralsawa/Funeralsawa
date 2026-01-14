@@ -5,6 +5,6 @@
     </p>
 </div>
 
-<p align="center">
+<p align="center" style="margin:0">
     <img alt="Div Line" width="100%" height=2 src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" />
 </p>
