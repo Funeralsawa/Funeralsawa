@@ -9,23 +9,21 @@
     <img alt="Div Line" width="100%" height=2 src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" />
 </p>
 
-<br />
-
-<div class="About">
-    <h2 style="margin:0">🙌 About Me</h2>
-    <div class="Introduction" style="display:flex;justify-content:center;gap:3px;width:100%;border:solid 1px;padding:3px;">
-        <div class="left" style="flex:1;border:solid 1px;">
+<h2 style="margin:0">🙌 About Me</h2>
+<table class="About" border="1">
+    <tr class="Introduction" style="width:100%;padding:3px;">
+        <td class="left">
             <ul>
                 <li>A Golang & Typescript Developer</li>
                 <li>Working From HyperToken/Nanjing</li>
                 <li>Looking for collaborations and exploring new opportunities</li>
                 <li>Contact Me: <a href="mailto:aysel@sigh.work">aysel@sigh.work</a></li>
             </ul>
-        </div>
-        <div class="right" style="display:flex;justify-content:center;align-items:center;border:solid 1px;flex:2;display:flex;padding:3px 0;">
+        </td>
+        <td class="right" style="padding:3px 0;">
             <img src="https://ibed.aysel.work/fcbe22ec-aaab-4e3d-8820-a51dee3db292" alt="Authorize from [@p1ct0a1](https://x.com/p1ct0a1)" height="300">
-        </div>
-    </div>
-</div>
+        </td>
+    </tr>
+</table>
 
 ![Snake animation](https://raw.githubusercontent.com/funeralsawa/funeralsawa/output/github-contribution-grid-snake.svg)
