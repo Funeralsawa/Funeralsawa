@@ -10,20 +10,21 @@
 </p>
 
 <h2 style="margin:0">🙌 About Me</h2>
-<table class="About" border="1">
-    <tr class="Introduction" style="width:100%;padding:3px;">
-        <td class="left">
-            <ul>
-                <li>A Golang & Typescript Developer</li>
-                <li>Working From HyperToken/Nanjing</li>
-                <li>Looking for collaborations and exploring new opportunities</li>
-                <li>Contact Me: <a href="mailto:aysel@sigh.work">aysel@sigh.work</a></li>
-            </ul>
-        </td>
-        <td class="right" style="padding:3px 0;">
-            <img src="https://ibed.aysel.work/fcbe22ec-aaab-4e3d-8820-a51dee3db292" alt="Authorize from [@p1ct0a1](https://x.com/p1ct0a1)" height="300">
-        </td>
-    </tr>
-</table>
+<div>
+    <img
+        align="right"
+        width="300"
+        src="https://ibed.aysel.work/fcbe22ec-aaab-4e3d-8820-a51dee3db292"
+        alt="Authorize from [@p1ct0a1](https://x.com/p1ct0a1)"
+    >
+    <ul>
+        <li>A Golang & Typescript Developer</li>
+        <li>Working From HyperToken/Nanjing</li>
+        <li>Looking for collaborations and exploring new opportunities</li>
+        <li>Contact Me: <a href="mailto:aysel@sigh.work">aysel@sigh.work</a></li>
+    </ul>
+</div>
+
+<br clear="all">
 
 ![Snake animation](https://raw.githubusercontent.com/funeralsawa/funeralsawa/output/github-contribution-grid-snake.svg)
